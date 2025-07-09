@@ -6,7 +6,7 @@
 
 ---
 
-### 💻 Stack principale
+### Stack principale
 
 <div align="center">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
@@ -20,7 +20,7 @@
 
 ---
 
-### 🧠 Ce que je fais
+### Ce que je fais
 
 ```ts
 export const Archi = {
@@ -31,7 +31,7 @@ export const Archi = {
 };
 ```
 
-### 🧰 Projets en cours
+### Projets en cours
 
 | Projet             | Description |
 |--------------------|-------------|
@@ -44,6 +44,6 @@ export const Archi = {
 
 ---
 
-### ☕ Me contacter
+### Me contacter
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/clementcoadou)
