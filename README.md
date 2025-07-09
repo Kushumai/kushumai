@@ -1,4 +1,4 @@
-<p style="text-align:center">Center this text</p>
+text
 
 <!--
 **Kushumai/kushumai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
