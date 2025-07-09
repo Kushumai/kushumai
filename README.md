@@ -42,13 +42,6 @@ export const Archi = {
 | **🧠 bff-service**  | API Gateway unifiée avec validation des appels internes via JWT service-to-service, agrégation des données côté client, sécurisation centralisée. |
 | **🌐 frontend**     | App Next.js 15 (App Router, TailwindCSS, Radix UI, theming OKLCH), design system 100% Tailwind, thème jour/nuit, pages protégées avec AuthContext. |
 
-### 📈 Statistiques
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clementcoadou&show_icons=true&theme=github_dark&hide_title=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clementcoadou&theme=github-dark&hide_border=true" />
-</p>
-
 ---
 
 ### ☕ Me contacter
