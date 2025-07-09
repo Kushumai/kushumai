@@ -1,7 +1,7 @@
 <!-- Banner -->
 <h1 align="center">Salut, moi c'est Clément 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00B8D4&center=true&width=435&lines=Développeur+Fullstack+TypeScript;Fan+de+Clean+Architecture;Builder+d'outils+propres+et+scalables;Créateur+d'Archi+🧱" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00B8D4&center=true&width=600&lines=Développeur+Fullstack+TypeScript;Fan+de+Clean+Architecture;Builder+d'outils+propres+et+scalables;Créateur+d'Archi+🧱" alt="Typing SVG" />
 </p>
 
 ---
