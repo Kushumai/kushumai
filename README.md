@@ -47,5 +47,3 @@ export const Archi = {
 ### ☕ Me contacter
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/clementcoadou)
-- ✉️ Email : contact [at] clementcoadou [dot] dev
-- 📦 [npm](https://www.npmjs.com/~clementcoadou)
