@@ -23,7 +23,6 @@
 ### 🧠 Ce que je fais
 
 ```ts
-// archi.ts
 export const Archi = {
   mission: "Réinventer la gestion immobilière par la tech",
   valeurs: ["accessibilité", "sécurité", "interopérabilité"],
