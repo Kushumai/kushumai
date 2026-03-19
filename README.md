@@ -40,7 +40,7 @@ export const Archi = {
 | **👤 user-service** | Service indépendant gérant les profils utilisateur, discriminators, et accès différenciés selon les rôles métier. |
 | **📂 document-service** | Service dédié au téléversement, stockage (MinIO/S3) et partage sécurisé de documents liés à un bien. Upload multi-format, accès par permission, journalisation. |
 | **🧠 bff-service**  | API Gateway unifiée avec validation des appels internes via JWT service-to-service, agrégation des données côté client, sécurisation centralisée. |
-| **🌐 frontend**     | App Next.js 15 (App Router, TailwindCSS, Radix UI, theming OKLCH), design system 100% Tailwind, thème jour/nuit, pages protégées avec AuthContext. |
+| **🌐 frontend**     | App Next.js 15 (App Router, TailwindCSS, Radix UI, theming OKLCH), design system 100% Tailwind, pages protégées avec AuthContext. |
 
 ---
 
